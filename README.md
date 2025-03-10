@@ -17,10 +17,7 @@ A **lightweight and modern Stopwatch app** built for Android using **Flutter**.
 ## 📲 Installation  
 You can install the app in two ways:  
 
-### 1️⃣ **Download APK (Easiest Method)**  
-🔹 [Download Latest APK](apk_download_link_here) (Upload your APK to Releases on GitHub)  
-
-### 2️⃣ **Build from Source**  
+### 1 **Build from Source**  
 1. **Clone the Repository**  
    ```sh
    git clone https://github.com/Nagarajdevanagvi/Stopwatch_Android_App.git
